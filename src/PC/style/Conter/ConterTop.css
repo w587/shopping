@@ -1,0 +1,46 @@
+.ContTop{
+	display: flex;
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+	align-items:center;
+}
+/*logo盒子*/
+.ContTop .HeaderLogo{
+	flex:2;
+	display: flex;
+	flex-direction: row;
+	align-items:center;
+}
+/*导航*/
+.ContTop .HeaderNav{
+	flex:10;
+	display: flex;
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+	justify-content: space-between;
+	height: 100px;
+	margin-top: 50px;
+	
+}
+
+.ContTop .HeaderNav .HeaderNavBox{
+	height: 100px;
+}
+
+.ContTop .HeaderNav .HeaderNavBox li{
+	line-height: 100px;
+	margin-left: 20px;
+	float: left;
+}
+
+.ContTop .HeaderNav .HeaderSearch{
+	height: 35px;
+	width: 200px;
+	margin-top: 30px;
+}

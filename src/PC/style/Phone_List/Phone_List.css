@@ -1,0 +1,34 @@
+.Phone_conter{
+	width: 100%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	display: flex;
+	flex-direction: row;
+
+}
+.Phone_conter .Phone_conterL{
+	flex:1;
+	border: 1px solid gray;
+	padding: 5px;
+	
+}
+.Phone_conter .Phone_conterR{
+	flex:4;
+}
+.Phone_conterL{
+	display: flex;
+	flex-direction: column;
+}
+.Phone_conterL .Phone_conterL_item{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 20px;
+	
+}
+.Phone_items{
+	border:1px solid #666
+}
+.Phone_items:hover{
+	border: red solid 1px;
+}

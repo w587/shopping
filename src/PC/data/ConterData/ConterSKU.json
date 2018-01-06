@@ -1,0 +1,20 @@
+[
+ 	{
+ 		"data":[
+ 	   		{"name":"小米Max 2","title":"大屏大电量，轻薄全金属","price":"1399元起","imgsrc":"https://i1.mifile.cn/a4/xmad_1496643954435_EcHtv.png","topcolor":"#ffac13"},
+ 	   		{"name":"小米手环 2","title":"OLED 显示屏幕，升级计步算法","price":"149元","imgsrc":"https://i1.mifile.cn/a4/6ef55907-bbed-49be-a2bb-be0821b5f7b8","topcolor":"#83c44e"},
+ 	   		{"name":"小米净水器 厨下式","title":"直出纯净水，隐藏式安装","price":"1999元","imgsrc":"https://i1.mifile.cn/a4/T1KvdjBX_v1RXrhCrK.jpg","topcolor":"#2196f3"},
+ 	   		{"name":"米家扫地机器人","title":"爱干净，高效完成清扫任务","price":"1699元","imgsrc":"https://i1.mifile.cn/a4/d70bc596-524b-4a05-996b-ceccc072fc5e","topcolor":"#e53935"},
+ 	   		{"name":"小米电视4A 43英寸 标准版","title":"全高清HDR  四核高性能处理器 ","price":"1999元","imgsrc":"https://i1.mifile.cn/a1/pms_1503909150.67293503!220x220.png","topcolor":"#00c0a5"}
+ 	  	],"name":"小米明星单品"
+ 	},{
+ 		"data":[
+ 	   		{"name":"小米6 全网通版 4GB内存","title":"大屏大电量，轻薄全金属","price":"2299元","imgsrc":"https://i1.mifile.cn/a1/pms_1510019402.48089978!280x280.jpg","topcolor":"#ffac13"},
+ 	   		{"name":"红米Note 5A 全网通版 3GB内存 32GB","title":"OLED 显示屏幕，升级计步算法","price":"899元","imgsrc":"https://i1.mifile.cn/a1/pms_1503322183.2321963!140x140.jpg","topcolor":"#83c44e"},
+ 	   		{"name":"小米平板3","title":"直出纯净水，隐藏式安装","price":"1499元","imgsrc":"https://i1.mifile.cn/a1/pms_1491310525.39633055!140x140.jpg","topcolor":"#2196f3"},
+ 	   		{"name":"小米羊毛触屏手套 女款","title":"爱干净，高效完成清扫任务","price":"99元","imgsrc":"https://i1.mifile.cn/a1/pms_1506670699.47382057!280x280.jpg","topcolor":"#e53935"},
+ 	   		{"name":"智能家居经典套装","title":"全高清HDR  四核高性能处理器 ","price":"787元","imgsrc":"https://i1.mifile.cn/a1/pms_1495019784.0393216!140x140.jpg","topcolor":"#00c0a5"}
+ 	  	],"name":"为您推荐"
+ 	}
+
+]

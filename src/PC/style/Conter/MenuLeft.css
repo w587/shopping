@@ -1,0 +1,74 @@
+
+.Conter .ConterMenu .MenuLeft{
+	position: absolute;
+	
+	width: 85%;
+	height: 460px;
+	z-index: 5;
+}
+.Conter .ConterMenu .MenuLeft .MenuBox{
+	height: 100%;
+	width: 200px;
+	float: left;
+	background-color: rgba(200,200,200,0.6);
+	display: flex;
+	flex-direction: column;
+
+}
+.Conter .ConterMenu .MenuLeft .MenuBox li{
+	
+	display: flex;
+	justify-content: space-between;
+	line-height: 46px;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: white
+}
+.Conter .ConterMenu .MenuLeft .MenuBox li:hover{
+	background-color: rgb(255, 103, 0);
+}
+
+.Conter .ConterMenu .MenuLeft .PartBox{
+	position: absolute;
+	left:18.1%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	overflow: hidden;
+	background-color: white;
+}
+
+.Conter .ConterMenu .MenuLeft .PartBox li{
+	
+	width: 200px;
+	height: 75px;
+	text-align: center;
+}
+
+.Conter .ConterMenu .MenuLeft .PartBox li a{
+	width: 100%;
+	padding:18px 20px;
+	display: block;
+	margin: 0 auto;
+	height: 78px;
+}
+
+.Conter .ConterMenu .MenuLeft .PartBox li a img{
+
+	left: 20px;
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+
+.Conter .ConterMenu .MenuLeft .PartBox li a span{
+	line-height: 35px;
+	width: 60%;
+	float: right;
+}
+
+.Conter .ConterMenu .MenuBanner{
+	width: 100%;
+	background-color: yellow;
+}

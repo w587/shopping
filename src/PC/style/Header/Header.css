@@ -1,0 +1,83 @@
+.Header{
+	width: 100%;
+	background-color: black;
+}
+/*头部广告*/
+.Header img{
+	width: 100%;
+	height: 120px;
+}
+/*头部导航*/
+.Header .HeaderTop{
+	width: 90%;
+	height: 40px;
+	
+	margin: 0 auto;
+	display: flex;
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+/*模块导航*/
+.Header .HeaderTop .MoudelBox{
+	width: 40%;
+	display: flex;
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+	justify-content: space-around;
+}
+/*模块导航项*/
+.Header .HeaderTop .MoudelBox span{
+	float: left;
+	color:gray;
+	line-height: 40px;
+	font-size: 12px;
+
+}
+.Header .HeaderTop .MoudelBox span:hover{
+	color:white;
+}
+/*用户导航*/
+.Header .HeaderTop .UserBox{
+	width: 40%;
+	display: flex;
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+	justify-content: space-around;
+}
+/*用户导航项*/
+	
+.Header .HeaderTop .UserBox span{
+	float: left;
+	color:gray;
+	line-height: 40px;
+	font-size: 12px;
+	margin-left: 10px;
+}
+.Header .HeaderTop .UserBox .ShowCart{
+	height: 40px;
+	flex:2;
+	color: white;
+	text-align: center;
+	cursor: pointer;
+	
+}
+.Header .HeaderTop .UserBox .ShowCart:hover{
+	background-color: white;
+	color: rgb(255, 105, 4);
+}
+.ShowCartMenu{
+	width: 200px;
+	height: 100px;
+
+}

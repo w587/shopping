@@ -1,0 +1,67 @@
+[
+{
+	"data":[
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1510111588.69169839!220x220.jpg","title1":"小米电视4 55英寸","title2":"4.9mm极超薄高端旗舰电视","price":"3699元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1503909218.70932288!220x220.png","title1":"小米电视4A 49英寸 标准版","title2":"2GB+8GB 大存储/全高清HDR","price":"2049元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1505106710.28498495!220x220.jpg","title1":"小米笔记本Pro 15.6英寸","title2":"全金属强化机身/FHD全贴合屏幕","price":"5399元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1499138177.54329452!220x220.jpg","title1":"小米笔记本Air 13.3“i7处理器","title2":"intel酷睿i7处理器，8GB内存+256GB","price":"5599元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/T1OVC_ByY_1RXrhCrK!220x220.jpg","title1":"米家压力IHd电饭锅","title2":"智能烹饪，灰铸铁粉体涂层内胆","price":"899元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1498624482.88089389!220x220.jpg","title1":"米家激光投影电视","title2":"150英寸超大投影尺寸","price":"9499元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/T1zBYgBCWv1RXrhCrK!220x220.jpg","title1":"小米空气净化器","title2":"10分钟，房间空气焕然一新","price":"599元"}
+		],
+	"head":["热门","电视影音","电脑","家具"],
+	"name":"家电"
+},
+{
+	"data":[
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1510111588.69169839!220x220.jpg","title1":"小米电视4 55英寸","title2":"4.9mm极超薄高端旗舰电视","price":"3699元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1503909218.70932288!220x220.png","title1":"小米电视4A 49英寸 标准版","title2":"2GB+8GB 大存储/全高清HDR","price":"2049元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1505106710.28498495!220x220.jpg","title1":"小米笔记本Pro 15.6英寸","title2":"全金属强化机身/FHD全贴合屏幕","price":"5399元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1499138177.54329452!220x220.jpg","title1":"小米笔记本Air 13.3“i7处理器","title2":"intel酷睿i7处理器，8GB内存+256GB","price":"5599元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/T1OVC_ByY_1RXrhCrK!220x220.jpg","title1":"米家压力IHd电饭锅","title2":"智能烹饪，灰铸铁粉体涂层内胆","price":"899元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1498624482.88089389!220x220.jpg","title1":"米家激光投影电视","title2":"150英寸超大投影尺寸","price":"9499元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/T1zBYgBCWv1RXrhCrK!220x220.jpg","title1":"小米空气净化器","title2":"10分钟，房间空气焕然一新","price":"599元"}
+		],
+	"head":["热门","出行","健康","酷玩","路由器"],
+	"name":"智能"
+},
+{
+	"data":[
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1510111588.69169839!220x220.jpg","title1":"小米电视4 55英寸","title2":"4.9mm极超薄高端旗舰电视","price":"3699元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1503909218.70932288!220x220.png","title1":"小米电视4A 49英寸 标准版","title2":"2GB+8GB 大存储/全高清HDR","price":"2049元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1505106710.28498495!220x220.jpg","title1":"小米笔记本Pro 15.6英寸","title2":"全金属强化机身/FHD全贴合屏幕","price":"5399元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1499138177.54329452!220x220.jpg","title1":"小米笔记本Air 13.3“i7处理器","title2":"intel酷睿i7处理器，8GB内存+256GB","price":"5599元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/T1OVC_ByY_1RXrhCrK!220x220.jpg","title1":"米家压力IHd电饭锅","title2":"智能烹饪，灰铸铁粉体涂层内胆","price":"899元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1498624482.88089389!220x220.jpg","title1":"米家激光投影电视","title2":"150英寸超大投影尺寸","price":"9499元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/T1zBYgBCWv1RXrhCrK!220x220.jpg","title1":"小米空气净化器","title2":"10分钟，房间空气焕然一新","price":"599元"}
+		],
+	"head":["热门","耳机音箱","电源","电池储存卡"],
+	"name":"搭配"
+},
+{
+	"data":[
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1510111588.69169839!220x220.jpg","title1":"小米电视4 55英寸","title2":"4.9mm极超薄高端旗舰电视","price":"3699元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1503909218.70932288!220x220.png","title1":"小米电视4A 49英寸 标准版","title2":"2GB+8GB 大存储/全高清HDR","price":"2049元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1505106710.28498495!220x220.jpg","title1":"小米笔记本Pro 15.6英寸","title2":"全金属强化机身/FHD全贴合屏幕","price":"5399元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1499138177.54329452!220x220.jpg","title1":"小米笔记本Air 13.3“i7处理器","title2":"intel酷睿i7处理器，8GB内存+256GB","price":"5599元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/T1OVC_ByY_1RXrhCrK!220x220.jpg","title1":"米家压力IHd电饭锅","title2":"智能烹饪，灰铸铁粉体涂层内胆","price":"899元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1498624482.88089389!220x220.jpg","title1":"米家激光投影电视","title2":"150英寸超大投影尺寸","price":"9499元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/T1zBYgBCWv1RXrhCrK!220x220.jpg","title1":"小米空气净化器","title2":"10分钟，房间空气焕然一新","price":"599元"}
+		],
+	"head":["热门","保护套","贴膜","其他配件"],
+	"name":"配件"
+},
+{
+	"data":[
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1510111588.69169839!220x220.jpg","title1":"小米电视4 55英寸","title2":"4.9mm极超薄高端旗舰电视","price":"3699元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1503909218.70932288!220x220.png","title1":"小米电视4A 49英寸 标准版","title2":"2GB+8GB 大存储/全高清HDR","price":"2049元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1505106710.28498495!220x220.jpg","title1":"小米笔记本Pro 15.6英寸","title2":"全金属强化机身/FHD全贴合屏幕","price":"5399元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1499138177.54329452!220x220.jpg","title1":"小米笔记本Air 13.3“i7处理器","title2":"intel酷睿i7处理器，8GB内存+256GB","price":"5599元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/T1OVC_ByY_1RXrhCrK!220x220.jpg","title1":"米家压力IHd电饭锅","title2":"智能烹饪，灰铸铁粉体涂层内胆","price":"899元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/pms_1498624482.88089389!220x220.jpg","title1":"米家激光投影电视","title2":"150英寸超大投影尺寸","price":"9499元"},
+			{"imgsrc":"https://i1.mifile.cn/a1/T1zBYgBCWv1RXrhCrK!220x220.jpg","title1":"小米空气净化器","title2":"10分钟，房间空气焕然一新","price":"599元"}
+		],
+	"head":["热门","服装","居家","生活周边","箱包"],
+	"name":"周边"
+}
+]

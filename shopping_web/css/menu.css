@@ -1,0 +1,66 @@
+.acrive_area{
+	flex:4;
+	display: flex;
+	flex-direction: row;
+}
+
+.Tops .acrive_area .items_box{
+	flex:4;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	
+	background-color: rgb(247, 247, 247)
+}
+
+.Tops .acrive_area .items_box .sec_box{
+	list-style: none;
+}
+
+
+.Tops .acrive_area .items_box .sec_box li{
+	border: 1px solid gray;
+	float: left;	
+	margin:5px;
+	padding: 5px;
+}
+
+.Tops .acrive_area .items_box .contens{
+	list-style: none;
+	height: 100%;
+	display: flex;
+
+	flex-direction: column;
+}
+
+.Tops .acrive_area .items_box .contens li{
+	margin-top: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items:center;
+}
+
+.Tops .acrive_area .items_box .contens li p{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.Tops .acrive_area .items_box .contens li span{
+	color: gray;
+	
+	margin: 5px;
+	font-size: 10px;
+}
+
+.Tops .acrive_area .acts_box{
+	flex:1;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	algn-items:center;
+	justify-content: space-around;
+}
+
+

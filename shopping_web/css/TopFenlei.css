@@ -1,0 +1,33 @@
+.Tops{
+	width: 100%;
+	height: 450px;
+	border: 1px solid red;
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 10px;
+
+}
+.Tops .Left_menu{
+	flex:1;
+	
+	background-color: gray;
+}
+.Tops .Left_menu ul{
+	height: 100%;
+	width: 100%;
+	list-style: none;
+}
+.Tops .Left_menu ul li{
+	padding-left: 14px;
+	line-height: 30px;
+	width: 100%;
+	height: 30px;
+	color:white;
+	font-size: 14px;
+	/*background-color: rgba(255,255,255,0.3);*/
+
+}
+.Tops .Left_menu ul li:hover{
+	background-color: rgba(255,255,255,0.3);
+}
+

@@ -1,0 +1,68 @@
+.Tops .acrive_area .jd_user .user_top{
+	flex:1;
+}
+
+.Tops .acrive_area .jd_user .user_top .use_msg{
+	width: 100%;
+	height: 40px;
+	margin-top: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.Tops .acrive_area .jd_user .user_top .use_msg .use_icon{
+	display: block;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	
+	background-color: gray;
+}
+
+.Tops .acrive_area .jd_user .user_top .use_msg .wec{
+	display: flex;
+	flex-direction: column;
+}
+
+.Tops .acrive_area .jd_user .user_top .use_msg .wec p{
+	font-size: 10px;
+	color: gray;
+}
+
+.Tops .acrive_area .jd_user .user_top .use_msg .wec .wec_cz{
+	display: flex;
+	flex-direction: row;
+
+} 
+
+.Tops .acrive_area .jd_user .user_top .use_msg .wec .wec_cz p{
+	
+	margin-right: 4px;
+}
+
+.Tops .acrive_area .jd_user .user_top .use_msg .wec .wec_cz p:hover{
+	color: red;
+}
+
+.Tops .acrive_area .jd_user .user_top .use_fl{
+	margin-top: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.Tops .acrive_area .jd_user .user_top .use_fl p{
+	width: 45%;
+	height: 20px;
+	line-height: 20px;
+	font-size: 12px;
+	color:red;
+	text-align: center;
+	border: 3px solid red;
+}
+
+.Tops .acrive_area .jd_user .user_top .use_fl p:hover{
+	background-color: red;
+	color:white;
+}
